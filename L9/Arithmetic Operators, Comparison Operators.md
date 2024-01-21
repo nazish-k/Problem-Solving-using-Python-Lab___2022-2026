@@ -35,12 +35,12 @@ print("%d // %d = %d" % (num1,num2,num1//num2))
 
 
 ```python
-n1 = int(input ("num1: "))
-n2 = int(input ("num2: "))
-print("Addition of",n1,"and",n2,"=",n1+n2)
-print("Subtraction of",n1,"and",n2,"=",n1-n2)
-print("Multiplication of",n1,"and",n2,"=",n1*n2)
-print("Division of",n1,"and",n2,"=",n1/n2)
+num1 = int(input ("num1: "))
+num2 = int(input ("num2: "))
+print("Addition of",num1,"and",num2,"=",num1+num2)
+print("Subtraction of",num1,"and",num2,"=",num1-num2)
+print("Multiplication of",num1,"and",num2,"=",num1*num2)
+print("Division of",num1,"and",num2,"=",num1/num2)
 
 ```
 
@@ -48,11 +48,11 @@ print("Division of",n1,"and",n2,"=",n1/n2)
 
 
 ```python
-n1 = int(input("num1: "))
-n2 = int(input("num2: "))
-print("Exponent of",n1,"with",n2,"=",n1**n2)
-print("Modulus of",n1,"and",n2,"=",n1%n2)
-print("Floor Division of",n1,"and",n2,"=",n1//n2)
+num1 = int(input("num1: "))
+num2 = int(input("num2: "))
+print("Exponent of",num1,"with",num2,"=",num1**num2)
+print("Modulus of",num1,"and",num2,"=",num1%num2)
+print("Floor Division of",num1,"and",num2,"=",num1//num2)
 ```
 
 ## Q5
@@ -88,28 +88,28 @@ print(a,"%",b,"=",a%b)
 
 
 ```python
-n1 = int(input("num1: "))
-n2 = int(input("num2: "))
-print("Is",n1,"greater than",n2,"=",n1>n2)
-print("Is",n1,"less than",n2,"=",n1<n2)
-print("Is",n1,"equal to",n2,"=",n1==n2)
-print("Is",n1,"not equal to",n2,"=",n1!=n2)
-print("Is",n1,"less than or equal to",n2,"=",n1<=n2)
-print("Is",n1,"greater than or equal to",n2,"=",n1>=n2)
+num1 = int(input("num1: "))
+num2 = int(input("num2: "))
+print("Is",num1,"greater than",num2,"=",num1>num2)
+print("Is",num1,"less than",num2,"=",num1<num2)
+print("Is",num1,"equal to",num2,"=",num1==num2)
+print("Is",num1,"not equal to",num2,"=",num1!=num2)
+print("Is",num1,"less than or equal to",num2,"=",num1<=num2)
+print("Is",num1,"greater than or equal to",num2,"=",num1>=num2)
 ```
 
 ## Q2
 
 
 ```python
-n1 = int(input ("num1: "))
-n2 = int (input ("num2: "))
-print("Is", n1, "greater than", n2, "=", n1>n2)
-print("Is", n1, "less than", n2, "=", n1<n2)
-print("Is", n1, "equal to", n2, "=", n1==n2)
-print("Is", n1, "not equal to",n2,"=",n1!=n2)
-print("Is", n1, "greater than or equal to",n2,"=", n1>=n2)
-print("Is",n1,"less than or equal to",n2,"=",n1<=n2)
+num1 = int(input ("num1: "))
+num2 = int (input ("num2: "))
+print("Is", num1, "greater than", num2, "=", num1>num2)
+print("Is", num1, "less than", num2, "=", num1<num2)
+print("Is", num1, "equal to", num2, "=", num1==num2)
+print("Is", num1, "not equal to",num2,"=",num1!=num2)
+print("Is", num1, "greater than or equal to",num2,"=", num1>=num2)
+print("Is",num1,"less than or equal to",num2,"=",num1<=num2)
 ```
 
 ## Q3
