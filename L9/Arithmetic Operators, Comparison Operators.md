@@ -116,26 +116,26 @@ print("Is",num1,"less than or equal to",num2,"=",num1<=num2)
 
 
 ```python
-m=input('str1: ')
-n=input('str2: ')
-print('Is',m,'greater than',n,"=",(m>n))
-print('Is',m,'less than',n,"=",m<n)
-print("Is",m,"equal to",n,"=",m==n)
-print("Is",m,"not equal to",n,"=",(m)!=(n))
-print("Is",m,"greater than or equal to",n,"=",m>=n)
-print("Is",m,"less than or equal to",n,"=",m<=n)
+str1=input('str1: ')
+str2=input('str2: ')
+print('Is',str1,'greater than',n,"=",(str1>str2))
+print('Is',str1,'less than',n,"=",str1<str2)
+print("Is",str1,"equal to",n,"=",str1==str2)
+print("Is",str1,"not equal to",n,"=",(str1)!=(str2))
+print("Is",str1,"greater than or equal to",str2,"=",str1>=str2)
+print("Is",str1,"less than or equal to",str2,"=",str1<=str2)
 ```
 
 ## Q4
 
 
 ```python
-m=input('str1: ')
-n=input('str2: ')
-print('Is',m,'greater than',n,"=",(m>n))
-print('Is',m,'less than',n,"=",m<n)
-print("Is",m,"equal to",n,"=",m==n)
-print("Is",m,"not equal to",n,"=",m!=n)
-print("Is",m,"greater than or equal to",n,"=",m>=n)
-print("Is",m,"less than or equal to",n,"=",m<=n)
+str1=input('str1: ')
+str2=input('str2: ')
+print('Is',str1,'greater than',str2,"=",(str1>str2))
+print('Is',str1,'less than',str2,"=",str1<str2)
+print("Is",str1,"equal to",str2,"=",str1==str2)
+print("Is",str1,"not equal to",str2,"=",str1!=str2)
+print("Is",str1,"greater than or equal to",str2,"=",str1>=str2)
+print("Is",str1,"less than or equal to",str2,"=",str1<=str2)
 ```
